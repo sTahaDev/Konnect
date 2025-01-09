@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "1234",
+        "friends":["burak","ömer","hamza"],
+        "imgUrl":"https://preview.free3d.com/img/2016/03/1875481443430303321/t21mwmyk.jpg",
+        "dms":[2,3],
+        "servers":[1,2]
+        
+    },
+    {
+
+        "id": 2,
+        "username": "taha",
+        "password": "1234",
+        "friends":["burak","ömer","hamza"],
+        "imgUrl":"https://upload.wikimedia.org/wikipedia/en/3/3a/Captain_Price_%28Call_of_Duty%29.png",
+        "dms":[1,3],
+        "servers":[1,2]
+        
+    },
+    {
+
+        "id": 3,
+        "username": "burak",
+        "password": "1234",
+        "friends":["burak","ömer","hamza"],
+        "imgUrl":"https://b6s54eznn8xq.merlincdn.net/Uploads/People/eb5b4aab-e211-436a-aafb-d8af31a0251e.jpg",
+        "dms":[1,2],
+        "servers":[1,2]
+        
+    }
+    
+]

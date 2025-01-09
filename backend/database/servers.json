@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Adam Olana Çok Bile Server",
+        "creator": "admin",
+        "status": "online",
+        "imgUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f657721a7eb06acae52a29ad3a951f20c1e5fc60-1920x1080.jpg",
+        "members": [
+            1,
+            2,
+            3
+        ],
+        "messages": [
+            {
+                "sender": "1",
+                "message": "Web Site güzel gidiyor",
+                "timestamp": "2025-01-09T19:15:22.163Z"
+            },
+            {
+                "sender": "1",
+                "message": "Senceee",
+                "timestamp": "2025-01-09T19:15:29.969Z"
+            },
+            {
+                "sender": "3",
+                "message": "aynen bencede güzel",
+                "timestamp": "2025-01-09T19:15:55.326Z"
+            },
+            {
+                "sender": "1",
+                "message": "oyyy sehset oluyor",
+                "timestamp": "2025-01-09T19:16:05.895Z"
+            },
+            {
+                "sender": "1",
+                "message": "dehset*",
+                "timestamp": "2025-01-09T19:16:14.390Z"
+            },
+            {
+                "sender": "3",
+                "message": "aynen ama birkaç optimizasyon lazım yani",
+                "timestamp": "2025-01-09T19:16:28.861Z"
+            },
+            {
+                "sender": "1",
+                "message": "bencede öyle",
+                "timestamp": "2025-01-09T19:17:35.466Z"
+            },
+            {
+                "sender": "1",
+                "message": "oy",
+                "timestamp": "2025-01-09T19:35:08.983Z"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Deneme",
+        "creator": "admin",
+        "status": "online",
+        "imgUrl": "https://cdn.oneesports.gg/cdn-data/2024/08/CSGO_after_CS2.jpg",
+        "members": [
+            1,
+            2,
+            3
+        ],
+        "messages": [
+            {
+                "sender": "3",
+                "message": "bu sunucuyu çoook sevdim ya sen",
+                "timestamp": "2025-01-09T19:17:27.284Z"
+            },
+            {
+                "sender": "1",
+                "message": "bencede öyle",
+                "timestamp": "2025-01-09T19:17:42.491Z"
+            }
+        ]
+    }
+]
